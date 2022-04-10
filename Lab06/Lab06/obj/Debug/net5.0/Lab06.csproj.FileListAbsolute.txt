@@ -1,0 +1,16 @@
+H:\Lab06\Lab06\obj\Debug\net5.0\Lab06.csproj.AssemblyReference.cache
+H:\Lab06\Lab06\obj\Debug\net5.0\Lab06.GeneratedMSBuildEditorConfig.editorconfig
+H:\Lab06\Lab06\obj\Debug\net5.0\Lab06.AssemblyInfoInputs.cache
+H:\Lab06\Lab06\obj\Debug\net5.0\Lab06.AssemblyInfo.cs
+H:\Lab06\Lab06\obj\Debug\net5.0\Lab06.csproj.CoreCompileInputs.cache
+H:\Lab06\Lab06\bin\Debug\net5.0\Lab06.exe
+H:\Lab06\Lab06\bin\Debug\net5.0\Lab06.deps.json
+H:\Lab06\Lab06\bin\Debug\net5.0\Lab06.runtimeconfig.json
+H:\Lab06\Lab06\bin\Debug\net5.0\Lab06.runtimeconfig.dev.json
+H:\Lab06\Lab06\bin\Debug\net5.0\Lab06.dll
+H:\Lab06\Lab06\bin\Debug\net5.0\Lab06.pdb
+H:\Lab06\Lab06\obj\Debug\net5.0\Lab06.dll
+H:\Lab06\Lab06\obj\Debug\net5.0\refint\Lab06.dll
+H:\Lab06\Lab06\obj\Debug\net5.0\Lab06.pdb
+H:\Lab06\Lab06\obj\Debug\net5.0\Lab06.genruntimeconfig.cache
+H:\Lab06\Lab06\obj\Debug\net5.0\ref\Lab06.dll
